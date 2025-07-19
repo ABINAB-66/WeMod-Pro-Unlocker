@@ -1,6 +1,6 @@
 # WeMod Pro Unlocker
 
-![WeMod Logo](https://wemod.com/static/images/logo.png)  
+
 *A simple tool to unlock WeMod Pro features for free*
 
 
